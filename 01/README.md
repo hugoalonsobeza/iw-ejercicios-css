@@ -8,7 +8,6 @@ Partiendo del código HTML dado, crea una página web como la de la imagen  que 
   * Tipo de letra: Arial (en caso de no disponer de ella, indicar fuente “sans serif”)
   * Margen ext. superior: 100px;
   * Margen ext. izquierdo: 200px;
-  * Margen ext. superior: 100px;
   * Margen interior: 5px
   * Borde: Sólido, 2px de grosor y de color negro.
   * 800px de ancho total.
